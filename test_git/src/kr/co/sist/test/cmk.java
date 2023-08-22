@@ -7,6 +7,7 @@ public class cmk {
 		//커밋은 무조건 메인에서 하는것
 		System.out.println("대포동미사일");
 		System.out.println("임태균의 미소!!!");
+		System.out.println("임태균의 미소2!!!");
 	}
 
 }
